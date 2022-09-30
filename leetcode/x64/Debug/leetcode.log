@@ -1,0 +1,5 @@
+﻿  helloworld.cpp
+  twoSum_1.cpp
+F:\CppWorkspace\leetcode\leetcode\twoSum_1.cpp(8,16): error C2011: “Solution”:“class”类型重定义
+F:\CppWorkspace\leetcode\leetcode\twoSum_1.h(8): message : 参见“Solution”的声明
+  正在生成代码...
